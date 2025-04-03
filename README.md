@@ -1,66 +1,91 @@
-# 🚗 BIGPSYS - Alliance Ben Gamra Auto Tunisie
+# 🚗 BIGPSYS - Bold Ideas Group for Digital Projects & Systems
 
-Des solutions digitales & technologiques pour le secteur automobile en Tunisie et en Afrique du Nord.
-
----
-
-## 🌐 Présentation
-
-**BIGPSYS** est la branche technologique du groupe **Alliance Ben Gamra Auto Tunisie**, spécialisée dans le développement de solutions digitales et innovantes pour le secteur automobile.
-
-Notre mission est de connecter, simplifier et digitaliser les processus liés à la vente, l'achat et l'exportation de véhicules, tout en intégrant des solutions IT, IoT et RPM (Remote Process Monitoring).
+Empowering Businesses Through Digital Transformation  
+Smart Digital Solutions for the Automotive Sector in Tunisia, France, and North Africa.
 
 ---
 
-## 🚀 Nos plateformes
+## 🌐 About Us
 
-| Plateforme | Description | Lien |
-|----------|-------------|---------|
-| **Karhabty.com** | Achat, vente et estimation de véhicules en Tunisie. | [Visiter](https://karhabty.com) |
-| **Fcrtunisie.eu** | Exportation de véhicules vers l'Afrique du Nord. | [Visiter](https://fcrtunisie.eu) |
-| **ABG Auto** | Portail officiel du groupe. | [Visiter](https://www.abgautos.online) |
+**BIGPSYS** is a digital agency and technology branch of **Alliance Ben Gamra Auto Tunisie**.  
+We are specialized in developing modern, scalable, and conversion-driven digital solutions tailored to the automotive sector and other industries.
 
----
-
-## 💡 Nos services
-
-- **Solutions IT** : Développement d'applications web & mobiles pour le secteur automobile.
-- **IoT (Internet of Things)** : Systèmes connectés pour le suivi et la gestion des véhicules.
-- **RPM (Remote Process Monitoring)** : Supervision et pilotage à distance des opérations automobiles et industrielles.
-- **Data & Analytics** : Analyse et traitement des données liées à la mobilité et à l'automobile.
+Our mission is to empower businesses by connecting, simplifying, and digitalizing their processes through custom web solutions, IoT systems, business integrations, and strategic digital support.
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🚀 Our Platforms & Services
 
-![Tech](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-blue)  
-![Tech](https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP-lightgrey)  
-![Tech](https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-yellow)  
-![Tech](https://img.shields.io/badge/IoT-MQTT%20%7C%20Node--RED-orange)  
+### Platforms
+
+| Platform | Description | Website |
+|--------|-------------|---------|
+| **www.bigpsys.com** | Official digital agency website | [Visit](https://www.bigpsys.com) |
+| **Karhabty.com** | Vehicle buying, selling & valuation in Tunisia | [Visit](https://karhabty.com) |
+| **Fcrtunisie.eu** | Exportation of vehicles to North Africa | [Visit](https://fcrtunisie.eu) |
+| **ABG Auto** | Official portal of Alliance Ben Gamra Auto | [Visit](https://www.abgautos.online) |
+
+---
+
+### Our Expertise
+
+#### 💻 Custom Web & E-Commerce Development
+- Corporate websites (WordPress, Headless CMS)
+- Online stores (Shopify, WooCommerce, PrestaShop)
+- SaaS & web applications (React, Node.js)
+- Custom modules & calculators
+- SEO-friendly, responsive & scalable platforms
+
+#### 🔗 ERP, CRM & Business Systems Integration
+- Integration with ERP systems (Odoo, Dolibarr, SAP, etc.)
+- CRM implementation (HubSpot, Zoho, Salesforce, etc.)
+- Real-time data synchronization (inventory, orders, customer data)
+- Automation tools (Zapier, Make, custom APIs)
+- Secure connection with third-party platforms
+
+#### 🎨 UI/UX Design & Digital Growth
+- Figma-based UI/UX design
+- Mobile-first, responsive layouts
+- Conversion-optimized user journeys
+- Brand identity & digital asset creation
+- Continuous improvement & A/B testing
+
+---
+
+## 🛠️ Technologies Used
+
+![Tech](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-blue)
+![Tech](https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP-lightgrey)
+![Tech](https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-yellow)
+![Tech](https://img.shields.io/badge/IoT-MQTT%20%7C%20Node--RED-orange)
 ![Tech](https://img.shields.io/badge/Infrastructure-AWS%20%7C%20Docker-green)
 
 ---
 
-## 🎯 Notre vision
+## 🎯 Our Vision
 
-> **"Digitaliser et connecter l'industrie automobile, en offrant aux particuliers et professionnels des solutions simples, rapides et efficaces."**
-
----
-
-## 📩 Contact
-
-Pour en savoir plus :
-
-- 🌐 **Site Web** : [www.abgautos.online](https://www.abgautos.online)
-- 📧 **Email** : contact@bigpsys.com
+> **"Digitalizing and connecting the automotive industry by providing simple, fast, and efficient solutions for both individuals and professionals."**
 
 ---
 
-## 📄 Licence
+## 📩 Contact Us
 
-Ce projet est protégé et appartient à **Alliance Ben Gamra Auto Tunisie**.  
-Toute reproduction ou utilisation non autorisée est strictement interdite.
+For partnerships, inquiries, or information:
+
+- 🌐 Website: [www.bigpsys.com](https://www.bigpsys.com)
+- 📧 Email: management@bigpsys.com
+- 📞 Phone: (+33) 7 52 30 52 16 / (+216) 28 48 99 94
+- 📍 Addresses:
+  - 5 avenue Carnot, 91300 Massy, France
+  - A1 Centre Tamayouz, Centre Urbain Nord, Tunisia
 
 ---
 
-⭐️ N'hésitez pas à suivre ce repository et à découvrir nos solutions pour le futur de l'automobile.
+## 📄 License
+
+This project is protected and belongs to **Alliance Ben Gamra Auto Tunisie**.  
+Any unauthorized reproduction or use is strictly prohibited.
+
+---
+
+⭐️ Feel free to follow this repository and explore our digital solutions.
